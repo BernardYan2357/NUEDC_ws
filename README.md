@@ -96,8 +96,8 @@
     <tr>
       <td style="border: 1px solid #e1e4e8;">杨振林</td>
       <td style="border: 1px solid #e1e4e8;">机械电子工程</td>
-      <td style="border: 1px solid #e1e4e8;">系统与项目管理</td>
-      <td style="border: 1px solid #e1e4e8;">负责系统方案论证、技术统筹、进度控制、文档撰写与对外协调。</td>
+      <td style="border: 1px solid #e1e4e8;">系统与项目管理兼软件开发</td>
+      <td style="border: 1px solid #e1e4e8;">负责系统方案论证、技术统筹、进度控制、文档撰写与对外协调，以及部分软件开发工作。</td>
     </tr>
     <tr>
       <td>颜灏</td>
@@ -208,5 +208,7 @@
 1. 进行至少2次为期4天3夜的真题模拟。严格模拟比赛环境，独立完成从选题到报告提交的全过程。
 2. 每次模拟后进行深度复盘，重点优化方案选择策略、时间分配和团队协作模式。
 3. 整理常用电路、代码模板、文档框架，形成团队的“知识手册”。
+## 资源需求
+
 
 
